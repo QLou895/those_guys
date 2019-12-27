@@ -1,0 +1,16 @@
+
+.box{
+    background-color: red;
+    height:100px;
+    width:100px;
+    margin: 20px 25px;
+
+}
+
+#con{
+    background-color: blue;
+    height:100px;
+    width:100px;
+    margin: 20px 25px;
+}
+/* ctrl+"/" is how you make comments*/
